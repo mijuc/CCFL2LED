@@ -1,0 +1,56 @@
+### Footprint positions - created on 2025-05-13T17:29:28+0200 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                           PosX       PosY       Rot  Side
++__-      Conn_01x02_Pin               PinSocket_1x02_P2.54mm_Vertical                 3.7080    21.5700    0.0000  top
++__-      Conn_01x02_Pin               PinSocket_1x02_P2.54mm_Vertical                 3.5810    55.2550    0.0000  top
+C1        10uF                         C_0603                                         43.2020    52.6215   90.0000  top
+C2        100uF                        C_Elec_6.3x7.7                                 16.7640    54.2615   90.0000  top
+C3        100nF                        C_0603                                         35.9365    51.4785  180.0000  top
+C4        100pF                        C_0603                                         34.9470    54.6100   90.0000  top
+C5        22uF                         C_0805                                         45.3390    48.9650   90.0000  top
+C6        22uF                         C_0805                                         43.2020    48.9650   90.0000  top
+C7        100uF                        C_Elec_6.3x7.7                                 16.8500    20.5190   90.0000  top
+C22       10uF                         C_0603                                          7.3620    77.0140    0.0000  top
+C23       10uF                         C_0603                                         11.5570    68.0540   90.0000  top
+C24       1uF                          C_0603                                         13.3350    68.0540   90.0000  top
+D1        1N5819WS                     D_SOD-323                                      13.0470    59.4660  180.0000  top
+D2        1N5819WS                     D_SOD-323                                      13.1840    25.5820  180.0000  top
+D3        SD12CT1G                     D_SOD-123FL                                    39.0906    66.8528   90.0000  top
+F2        CFS12V6T2R0                  Fuse_1206_3216Metric                           42.7990    65.6590  180.0000  top
+J2        USB_C_Receptacle_USB2.0_16P  TYPE-C-SMD_HX-TYPE-C-16PIN                     17.0160    79.9510  180.0000  top
+J3        Jack-DC                      BarrelJack_Horizontal                          44.3230    71.2160  -90.0000  top
+J4        OUTPUT                       PinHeader_1x06_P2.54mm_Vertical                40.5130     2.1615  -90.0000  top
+J7        Conn_01x02_Pin               PinSocket_1x02_P2.54mm_Vertical                27.0510    68.7070    0.0000  top
+L1        33uH                         L_7.3x7.3_H4.5                                  5.8670    61.5005    0.0000  top
+L2        4u7H                         L_7.3x7.3_H4.5                                 37.8680    45.3825  180.0000  top
+L3        33uH                         L_7.3x7.3_H4.5                                  5.9530    27.7580    0.0000  top
+Q1        S8050                        Q_SOT-23                                       32.8930     9.6035   90.0000  top
+R1        10K                          R_0603                                         28.1940     9.3745   90.0000  top
+R2        1K                           R_0603                                         29.9720     9.3980   90.0000  top
+R3        0.33R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    22.2370    47.0160   90.0000  top
+R4        0.2R                         R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    19.6850    47.0160  -90.0000  top
+R5        1K                           R_0603                                         35.6870     9.4215  -90.0000  top
+R6        52K3                         R_0603                                         36.7250    54.6270   90.0000  top
+R7        10K                          R_0603                                         39.4155    55.4155    0.0000  top
+R8        0.18R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    17.1450    47.0160  -90.0000  top
+R9        0.15R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    14.6170    47.0160  -90.0000  top
+R10       0.13R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    12.0650    47.0160  -90.0000  top
+R11       0.11R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder     9.5250    47.0160  -90.0000  top
+R12       0.1R                         R_1206_3216Metric_Pad1.30x1.75mm_HandSolder     6.9970    46.9900  -90.0000  top
+R13       0.33R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    22.3520    13.2340   90.0000  top
+R14       0.2R                         R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    19.8120    13.2340  -90.0000  top
+R15       0.18R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    17.2720    13.2340  -90.0000  top
+R16       0.15R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    14.7320    13.2340  -90.0000  top
+R17       0.13R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder    12.1920    13.2340  -90.0000  top
+R18       0.11R                        R_1206_3216Metric_Pad1.30x1.75mm_HandSolder     9.6520    13.2340  -90.0000  top
+R19       0.1R                         R_1206_3216Metric_Pad1.30x1.75mm_HandSolder     7.1120    13.2340  -90.0000  top
+SW1       SW_SPDT                      SS-12D11-G7                                    30.2260    83.4570    0.0000  top
+U1        PT4115                       SOT-89-5                                       10.5650    54.1895  180.0000  top
+U2        PT4115                       SOT-89-5                                       10.6680    20.4470  180.0000  top
+U3        AP62201WU-7                  TSOT26-WU_DIO                                  39.9444    52.5555  180.0000  top
+U7        LM2596_Modul                 YAAJ_DCDC_StepDown_LM2596                      46.9900    55.3745  -90.0000  top
+U8        AMS1117-3.3                  SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR              8.7610    71.3260   90.0000  top
+U9        CH224K                       SSOP-10-1EP_3.9x4.9mm_P1mm_EP2.1x3.3mm         17.0500    70.0745   90.0000  top
+## End
