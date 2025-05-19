@@ -14132,7 +14132,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C3010534"
+		(property "LCSC Part #" "C720557"
 			(at 149.86 27.94 0)
 			(effects
 				(font
@@ -21110,7 +21110,7 @@
 		(dnp no)
 		(uuid "dd4c755f-b601-47dc-bfd2-29ecf7a12bda")
 		(property "Reference" "U7"
-			(at 181.356 146.05 0)
+			(at 181.61 144.018 0)
 			(effects
 				(font
 					(size 1.27 1.27)
