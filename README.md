@@ -18,7 +18,7 @@ The plan is to create an open-source, universal modular board for displays (comp
 Here are picture of the working prototype (with the same chip tested on a 19", 22" and 24" display):
 
 
-![prototip2](Images/prototip2.jpg) 
+![prototip2](pictures/prototip2.jpg) 
 
 
 # About the Board
@@ -69,48 +69,49 @@ The steps we will go through in this process are:
 
    -Be careful with the LVDS cable going to the panel
    
-![step1](Images/step1.jpg)
+![step1](pictures/step1.jpg)
 
 2. **Continue opening the display and separate the panel from the housing, placing it in a clean area (be extremely careful during this step).**
 
-![step2](Images/step2.jpg)
+![step2](pictures/step2.jpg)
 
 3. **Remove the diffusers, being careful not to mix up their order.**
 
-![step3](Images/step3.jpg)
+![step3](pictures/step3.jpg)
 
 4. **Replace the CCFL (cold cathode fluorescent lamps), remove them, measure the appropriate length of LED strips, solder 30-40 cm of wire to them, and install them in place of the CCFL, then test them.**
 
-![step4](Images/step4.jpg)
+![step4](pictures/step4.jpg)
  
  -An example of bad backlighting
-![step4_!](Images/step4_!.jpg)
+![step4_!](pictures/step4_!.jpg)
 
 5. **Reinstall the diffusers and test the LED strips again to check if the diffusers have been properly returned to their place.**
 
-![step5](Images/step5.jpg)
+![step5](pictures/step5.jpg)
   
   -Badly returned diffusers will have lines on the edges which is the case here
-  ![step5_1](Images/step5_1.jpg)
+  ![step5_1](pictures/step5_1.jpg)
 
 6. **Reinstall the panel (check that it is completely clean) and close that part of the display.**
 
-![step6](Images/step6.jpg)
+![step6](pictures/step6.jpg)
 
 7. **Connect the LED backlight to the power supply board and link it to the logic board of the display.**
 
 -In this picture, the LED strips are not connected (I don't have a picture when they are connected)
-![step7_1](Images/step7_1.jpg)
+![step7_1](pictures/step7_1.jpg)
 
 8. **Test the monitor to check if all functions are working on the On-Screen Display (OSD) menu.**
 
-![step8](Images/step8.jpg)
+![step8](pictures/step8.jpg)
 
 9. **Close the display and put it into operation.**
 
-![step9](Images/step9.jpg)
+![step9](pictures/step9.jpg)
 
 
 # Next Steps
   * AC/DC Converter (230V AC to 12V DC)
   * Open-source universal logic board for monitors
+
