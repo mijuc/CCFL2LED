@@ -42,7 +42,7 @@ Here are picture of the working prototype (with the same chip tested on a 19", 2
 
 # Choosing an LED strip
 
-We recommend using a strip with 120 LEDs per meter. It’s also possible to implement the mod with a 60 LEDs/m strip, but the brightness will be noticeably lower. LED's must be 6500k color.
+We recommend using a strip with 120 LEDs per meter. It’s also possible to implement the mod with a 60 LEDs/m strip, but the brightness will be noticeably lower. LED's must be 6500k color. Testing of different sizes of LED strip is in progress...
 # Power Supply
 
 A maximum of 36W is required (typically around 30W depending on screen size and number of LEDs). There are two input options, selectable via a switch. The USB-C Power Delivery input uses the CH224K chip configured for a 12V output, so it's crucial to ensure that your adapter supports 12V PD — otherwise, it will not work. The second input is a standard DC jack (5.5mm outer, 2.0mm inner, center-positive) with a 12V power supply.
@@ -121,4 +121,9 @@ The steps we will go through in this process are:
 # Next Steps
   * AC/DC Converter (230V AC to 12V DC)
   * Open-source universal logic board for monitors
+# Contact
+* Matrix - [@vladanm](https://matrix.to/#/@vladanm:matrix.org)
+* LinkedIn - [Vladan Mijuc](https://www.linkedin.com/in/vladan-mijuc-bab922198/)
+* Mail - mijuc.edu@gmail.com
+
 
