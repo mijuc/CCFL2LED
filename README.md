@@ -1,6 +1,13 @@
 # CCFL2LED
 
-While working with LCD monitors, we noticed that their main issue is the CCFL (Cold Cathode Fluorescent Lamp) backlight. Since replacing these lamps is not cost-effective, we concluded that the best option is to modernize these devices with a new type of backlighting — LED (Light-Emitting Diode) backlight.
+Hi! I'm working on the R&D side of the Поново project. Through our initiative, where we upcycle old electronic devices in exchange for tree seedlings, we’ve noticed that LCD monitors are among the most common items ending up in landfills — and in our repair center as well.
+
+Interestingly, the majority of these monitors share the same issue: the backlight. Most of them use CCFL (cold cathode fluorescent lamp) backlighting, which is often partially or completely non-functional.
+
+As project volunteers, we concluded that replacing the CCFL lamps is not cost-effective. Instead, we aim to modernize these monitors by upgrading them to LED backlighting.
+
+If there are any PCB design or engineering experts among you who would like to provide feedback on the design and concept — we would really appreciate it! We’d also be grateful if you could support our project by sharing it on social media or donating via [OpenCollective](https://opencollective.com/ponovo).
+
 
 # Why is this change so important?
 
